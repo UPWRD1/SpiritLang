@@ -13,4 +13,7 @@ While not intended to be completely functional, Spirit is a fully fleged program
 
 ----------------------------
 
-Spirit's syntax is easy to use, and verbose, whic
+Spirit's syntax is easy to use, and verbose, which makes it easy to read, write, and understand, even for a beginner.
+The syntax is inspired by BASIC, Python, and HTML. The popularity of these languages makes Spirit easy to learn.
+.
+
