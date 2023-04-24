@@ -1,5 +1,13 @@
 # SpiritLang
-Spirit is a lightweight, general purpose programming language written in python.
+Spirit is a lightweight, general purpose programming language written in python.  
+
+  
+
+> !!!!! ATTENTION !!!!! 
+>
+> As of now, Spirit is deprecated, as it is no longer being maintained.  
+> Please visit https://github.com/MotionLang/motion.  
+> Thank you.  
 
 
 The Lexer, Parser, and interpreter are from CodePulse's tutorial. 
